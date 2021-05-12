@@ -9,7 +9,7 @@ I mostly use GitHub for working on modules with friends. This includes:
 - Decision analysis
 
 
-Check out my latest created (HTML file)[http://htmlpreview.github.io/?https://github.com/cemno/DecisionAnalysis-uebungen/blob/master/RMarkdown/RMarkdown_test.html] from the Decision analysis modul.
+Check out my latest created [HTML file](http://htmlpreview.github.io/?https://github.com/cemno/DecisionAnalysis-uebungen/blob/master/RMarkdown/RMarkdown_test.html) from the Decision analysis modul.
 
 <!--
 **cemno/cemno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
