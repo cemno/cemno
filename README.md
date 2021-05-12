@@ -1,6 +1,16 @@
 ### Hello there! 👋
 I am Clemens and studying agricultural science with a focus on digital agriculture.
-Check out my latest created (HTML file)[http://htmlpreview.github.io/?https://github.com/cemno/DecisionAnalysis-uebungen/blob/master/RMarkdown/RMarkdown_test.html]
+
+## What i'm currently doing
+
+I mostly use GitHub for working on modules with friends. This includes:
+
+- Python for applied machine learning
+- Decision analysis
+
+
+Check out my latest created (HTML file)[http://htmlpreview.github.io/?https://github.com/cemno/DecisionAnalysis-uebungen/blob/master/RMarkdown/RMarkdown_test.html] from the Decision analysis modul.
+
 <!--
 **cemno/cemno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
