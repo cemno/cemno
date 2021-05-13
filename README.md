@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I am Clemens and studying agricultural science 🚜 with a focus on digital agriculture 🖥️. Its a rapidly growing field with a lot of exiting new technologies being adopted!
+I am Clemens and studying agricultural science 🚜 with a focus on digital agriculture 🖥️. Its a rapidly growing field with a lot of exciting new technologies being adopted!
 
 ### What i'm currently doing
 
