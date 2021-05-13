@@ -7,6 +7,7 @@ I mostly use GitHub for working on modules with friends. This includes:
 
 - Python for applied machine learning
 - Decision analysis
+- Measuring phenotypes in heterogenic environments
 
 
 Check out my latest created [HTML file](http://htmlpreview.github.io/?https://github.com/cemno/DecisionAnalysis-uebungen/blob/master/RMarkdown/RMarkdown_test.html) from the Decision analysis modul.
