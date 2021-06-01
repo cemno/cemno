@@ -3,7 +3,7 @@ I am Clemens and studying agricultural science 🚜 with a focus on digital agri
 
 ### What i'm currently doing
 
-I mostly use GitHub for working on modules with friends. This includes:
+I use GitHub mostly for working on modules with friends. This includes:
 
 - Python for applied machine learning
 - Decision analysis
