@@ -5,12 +5,11 @@ I am Clemens and studying agricultural science 🚜 with a focus on digital agri
 
 I use GitHub mostly for working on modules with friends. This includes:
 
-- Python for applied machine learning
-- Decision analysis
+- Tree phenology analysis with R
 - Measuring phenotypes in heterogenic environments
 
 
-Check out my latest created [HTML file](http://htmlpreview.github.io/?https://github.com/cemno/DecisionAnalysis-uebungen/blob/master/RMarkdown/RMarkdown_test.html) from the Decision analysis modul.
+Check out my latest created [HTML file](http://htmlpreview.github.io/?https://github.com/cemno/DecisionAnalysis-uebungen/blob/master/RMarkdown/RMarkdown_test.html) from the Decision analysis modul last semester.
 
 <!--
 **cemno/cemno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
