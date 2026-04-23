@@ -1,15 +1,9 @@
 ### Hello there! 👋
-I am Clemens and studying agricultural science 🚜 with a focus on digital agriculture 🖥️. Its a rapidly growing field with a lot of exciting new technologies being adopted!
+I am Clemens and i studied agricultural science 🚜 with a focus on digital agriculture 🖥️. I'm currently working as an GIS-Specialist for a non-profit organization.
 
 ### What i'm currently doing
 
-I use GitHub mostly for working on modules with friends. This includes:
-
-- Tree phenology analysis with R
-- Measuring phenotypes in heterogenic environments
-
-
-Check out my latest created [HTML file](http://htmlpreview.github.io/?https://raw.githubusercontent.com/cemno/optimizing-pesticide-application-in-orchards/main/project-report-optimizing-pesticide-application.html) from the Decision analysis modul last semester.
+I use GitHub mostly for creating issues with software i like to use and trying to help solving them. In my free time i like to tinker with electronics, software and my homeserver.
 
 <!--
 **cemno/cemno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
